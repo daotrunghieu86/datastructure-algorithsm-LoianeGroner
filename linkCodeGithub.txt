@@ -1,0 +1,2 @@
+https://github.com/loiane/javascript-datastructures-algorithms
+Link book: http://dl.booktolearn.com/ebooks2/computer/programming/9781788623872_Learning_JavaScript_Data_Structures_and_Algorithms_e5b9.pdf
